@@ -1,0 +1,78 @@
+.banner-container {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+#hero-section,
+#hp-section,
+#fprods-section,
+#faq-section,
+#cust-section {
+	padding: 70px 0 70px 0;
+}
+
+.section-title-text {
+	margin: 20px 0 20px 0;
+}
+
+#hp-section,
+#hp-section-container,
+#fprods-section,
+#faq-section,
+.accordion-item,
+#cust-section {
+	width: 80%;
+}
+
+#hp-section-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#hp-1-content,
+#hp-2-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#faq-section,
+#fprods-section,
+.accordion-item,
+#cust-section {
+	margin: 0 auto;
+}
+
+#fprods-cards {
+	display: flex;
+	justify-content: center;
+}
+
+#btn-learn-more {
+	color: white !important;
+	width: 50%;
+}
+
+#btn-cart {
+	color: white !important;
+}
+
+#footer {
+	padding: 35px 0 35px 0;
+	margin: 0;
+}
+
+/* Center the carousel items horizontally */
+.carousel-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Adjust the width of the images (optional) */
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+}
