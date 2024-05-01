@@ -28,7 +28,7 @@
 				<h5 class="hp-1-text text-start text-capitalize fs-5 fw-normal">
 					beyond the horizon: the pinnacle of smartphone excellence
 				</h5>
-				<button type="button" class="btn bg-black" id="btn-learn-more">Learn More</button>
+				<a href="cart.html" class="btn bg-black" id="btn-more">Learn More</a>
 			</div>
 
 			<div class="col" id="hp-2-content">
@@ -38,7 +38,7 @@
 				<h5 class="hp-2-text text-start text-capitalize fs-5 fw-normal">
 					enjoy crisp highs and deep bass that bring tracks to life while you are on the go
 				</h5>
-				<button type="button" class="btn bg-black" id="btn-learn-more">Learn More</button>
+				<a href="cart.html" class="btn bg-black" id="btn-more">Learn More</a>
 			</div>
 			<div class="col text-center">
 				<iframe id="showcase-iframe" width="100%" height="300"

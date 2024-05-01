@@ -55,8 +55,13 @@
 	width: 50%;
 }
 
-#btn-cart {
+#btn-cart,
+#btn-more {
 	color: white !important;
+}
+
+#btn-more {
+	width: 50%;
 }
 
 #footer {
@@ -66,13 +71,13 @@
 
 /* Center the carousel items horizontally */
 .carousel-inner {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 /* Adjust the width of the images (optional) */
 .carousel-item img {
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 }
