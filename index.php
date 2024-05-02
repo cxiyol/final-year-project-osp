@@ -57,11 +57,13 @@
 		<div class="col-sm-3 mb-3 mb-sm-0">
 			<div class="card">
 				<img src="includes/img/prods/accs/img1.png" class="card-img-top">
-				<div class="card-body">
-					<h5 class="card-title">Special title treatment</h5>
-					<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-					<a href="#" class="btn bg-black" id="btn-cart">Buy Now</a>
-				</div>
+				<a href="accs.html" class="card-body-container">
+					<div class="card-body">
+						<p class="card-text">Prod Brand</p>
+						<h5 class="card-title">Prod Name</h5>
+						<p class="card-text">RM2,999.00</p>
+					</div>
+				</a>
 			</div>
 		</div>
 		<div class="col-sm-3">
